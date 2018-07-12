@@ -1,5 +1,5 @@
 {
-  "name": "securicornjs",
+  "name": "securicorn",
   "version": "0.1.0",
   "description": "Express.js security helper",
   "main": "lib/index.js",
